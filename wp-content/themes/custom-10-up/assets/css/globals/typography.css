@@ -64,7 +64,7 @@ p {
         line-height: 2.25rem;
     }
     
-    p, a, span {
+    p, span {
         font-size: 1.25rem;
         line-height: 2rem;
     }
@@ -157,7 +157,7 @@ span {
 .cta.primary {
     border: 2px solid var(--color-white);
     border-radius: 50px;
-    padding: var(--spacer-md) var(--spacer-lg);
+    padding: var(--spacer-sm) var(--spacer-md);
 }
 
 .cta.primary:hover,
@@ -177,4 +177,15 @@ span {
 .cta.secondary:focus,
 .cta.secondary:active {
     border-bottom: 2px solid var(--color-green);
+}
+
+@media (min-width: 1280px) {
+    .cta.primary {
+        padding: var(--spacer-md) var(--spacer-lg);
+    }
+
+    a {
+        font-size: 1.25rem;
+        line-height: 2rem;
+    }
 }

@@ -43,7 +43,7 @@
 
 @media (min-width: 1280px) {
     .container {
-        padding: var(--spacer-xl) 50px 0;
+        padding: var(--spacer-2xl) 50px;
     }
 }
 

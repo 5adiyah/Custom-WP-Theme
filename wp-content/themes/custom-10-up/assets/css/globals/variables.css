@@ -19,6 +19,7 @@
     --spacer-md: var(--base-spacer);            /* 16px */
     --spacer-lg: calc(var(--base-spacer) * 2);  /* 32px */
     --spacer-xl: calc(var(--base-spacer) * 3);  /* 48px */
+    --spacer-2xl: calc(var(--base-spacer) * 5);  /* 80px */
 
     /* Breakpoints */
     --breakpoint-sm: 576px;
