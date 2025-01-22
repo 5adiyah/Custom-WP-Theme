@@ -1,0 +1,49 @@
+.contact-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 500px;
+    position: relative;
+}
+
+.contact-wrapper .img-wrapper {
+    background-image: url("../../images/phone.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.contact-wrapper .img-wrapper::after {
+    background: rgba(27, 33, 53, 0.5);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.contact-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacer-xl);
+    justify-content: center;
+}
+
+.contact-wrapper .text-wrapper,
+.contact-wrapper .cta-wrapper {
+    position: relative;
+    text-align: center;
+    z-index: 2;
+}
+
+@media (min-width: 720px) {
+    .contact-wrapper {
+        flex-direction: column;
+    }
+}

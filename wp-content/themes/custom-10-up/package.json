@@ -1,0 +1,19 @@
+{
+  "name": "custom-10-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/scss/style.scss:assets/css/style.css",
+    "browser-sync": "browser-sync start --proxy 'http://localhost:10018/' --files 'assets/css/style.css, *.php'",
+    "dev": "concurrently \"npm run sass\" \"npm run browser-sync\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "concurrently": "^9.1.2",
+    "sass": "^1.83.4"
+  }
+}

@@ -1,0 +1,16 @@
+/* Global Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cousine&family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/* Globals */
+@import url('globals/reset.css');
+@import url('globals/variables.css');
+@import url('globals/layout.css');
+@import url('globals/typography.css');
+
+
+/* Components */
+@import url('components/header.css');
+@import url('components/text-component.css');
+@import url('components/contact.css');
+@import url('components/footer.css');
+@import url('components/hero.css');
