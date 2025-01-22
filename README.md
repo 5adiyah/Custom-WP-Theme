@@ -4,14 +4,9 @@ This is my custom wordpress theme created as a submission for the 10up Front End
 
 ## 📸 **Screenshots**:
 
-### 🖥️ My Desktop Design
-
-<img src="https://github.com/user-attachments/assets/f969e08c-29bd-40ec-ba0d-dc2bf704e001" alt="My Desktop Design" style="max-width: 400px; width: 50%;">
-
-### 🎨 10up Desktop Mockup
-
-<img src="https://github.com/user-attachments/assets/f94e76de-0283-4ac9-9bcf-5b8574791565" alt="10up Desktop Mockup" style="max-width: 400px; width: 50%;">
-
+| 🖥️ My Desktop Design           | 🖥️ My Desktop w/Nav           |
+|-----------------------------|-------------------------------|
+| ![image](https://github.com/user-attachments/assets/f0767e6e-e393-4f58-9083-eefe11d02942) | ![image](https://github.com/user-attachments/assets/e1e77d0e-58ae-4eb9-93f8-027e9975dd0e) |
 
 ---
 
