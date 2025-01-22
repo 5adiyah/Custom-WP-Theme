@@ -2,21 +2,16 @@
 
 This is my custom wordpress theme created as a submission for the 10up Front End engineering challenge. This project demonstrates my ability to architect a mobile layout given only desktop designs.  The project showcases a responsive, accessible, and future proofed web page layout implemented from a given design.
 
-📸 **Screenshots**:
+## 📸 **Screenshots**:
 
-🖥️ My Desktop Design
+### 🖥️ My Desktop Design
 
-![image](https://github.com/user-attachments/assets/f969e08c-29bd-40ec-ba0d-dc2bf704e001)
+<img src="https://github.com/user-attachments/assets/f969e08c-29bd-40ec-ba0d-dc2bf704e001" alt="My Desktop Design" style="max-width: 400px; width: 50%;">
 
+### 🎨 10up Desktop Mockup
 
-📱 My Desktop Design
+<img src="https://github.com/user-attachments/assets/f94e76de-0283-4ac9-9bcf-5b8574791565" alt="10up Desktop Mockup" style="max-width: 400px; width: 50%;">
 
-![image](https://github.com/user-attachments/assets/816809f9-089f-4427-bb80-f95f54e6f236)
-
-
-🎨 10up Desktop Mockup
-
-![image](https://github.com/user-attachments/assets/f94e76de-0283-4ac9-9bcf-5b8574791565)
 
 ---
 
